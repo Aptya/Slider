@@ -1,0 +1,10 @@
+#mainBox {
+    width: 500px !important;
+    height: 333px !important;
+}
+
+.btn-secondary {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
